@@ -1,0 +1,8 @@
+<suite name = "Intern Project" >
+    <parameter name ="browser" value ="Chrome" />
+    <test name="Amazon" >
+        <classes>
+            <class name ="testRunners.runner" />
+        </classes>
+    </test>
+</suite>
