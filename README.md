@@ -51,7 +51,7 @@ Page Object Model anlayışına uygun şekilde hazırlanan yapı, test için ger
 Main kısmındaki classlar genelde her test otomasyonuna başlamadan önce oluşturulan sabit classlardır. Bu classlar driverın ayağa kalkmasını, ve hangi tarayıcıyı desteklediğini gösterir.
 
 ElementHelper classının içinde tıklama, yazı yazdırma, elemanı görüntüleme gibi yardımcı methodlar vardır.
-Detaylar için classların içine bakınız.
+Detaylar için classların içine bakılmalıdır.
 
 
 ![image](https://user-images.githubusercontent.com/69193881/218684060-8b3ab749-0cf4-4b03-b0bc-9d5cbca462bd.png)
