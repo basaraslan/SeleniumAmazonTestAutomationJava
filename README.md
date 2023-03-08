@@ -6,7 +6,7 @@
   
 Proje hakkında:
 
-Bu projeyi, staj kapsamında selenyum ve test otomasyonunun mantığını kavramak amaçlı gerçekleştirilmiştir. Bu projede amazon websitesinin bazı fonksiyonlarını JAVA programlama dili yardımıyla test edilmiştir.
+Bu proje, staj kapsamında selenyum ve test otomasyonunun mantığını kavramak amaçlı gerçekleştirilmiştir. Bu projede amazon websitesinin bazı fonksiyonlarını JAVA programlama dili yardımıyla test edilmiştir.
 
 
 Test Senaryoları: Kullanıcının giriş yapıp airpods ürününü sepetine ekleyip silmesi.
